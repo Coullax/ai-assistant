@@ -43,4 +43,7 @@ Technologies used in the project:
 *   ElevenLabs
 *   Node js
 *   API Inegrations
-
+*   Python Flask
+*   3D Model (Blender)
+*   MySql
+*   Sqlite
