@@ -33,7 +33,7 @@
 Technologies used in the project:
 
 *   React js
-*   GPT (OpenAI)
+*   GPT (OpenAI) - GPT 3.5 / GPT 4
 *   Google gemini
 *   ElevenLabs
 *   Node js
