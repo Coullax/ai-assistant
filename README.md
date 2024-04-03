@@ -22,7 +22,7 @@
 <h5>Test 2</h5>
 <img align="center" src="pngs\Capture1.PNG" alt="project-screenshot" width="793" height="460/">
 <h5>Test 3</h5>
-<img align="center" src="pngs\Capture2.PNG" alt="project-screenshot" width="960" height="459/">
+<img align="center" src="pngs\Capture2.PNG" alt="project-screenshot" width="960" height="457/">
 <h5>Test 4</h5>
 <img align="center" src="pngs\Capture3.PNG" alt="project-screenshot" width="633" height="334/">
 <h5>Test 5</h5>
