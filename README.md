@@ -21,11 +21,11 @@
 <h5>Test 2</h5>
 <img align="center" src="pngs\Capture1.PNG" alt="project-screenshot" width="800" height="400/">
 <h5>Test 3</h5>
-<img align="center" src="pngs\Capture2.png" alt="project-screenshot" width="800" height="400/">
+<img align="center" src="pngs\Capture2.PNG" alt="project-screenshot" width="800" height="400/">
 <h5>Test 4</h5>
-<img align="center" src="pngs\Capture3.png" alt="project-screenshot" width="800" height="400/">
+<img align="center" src="pngs\Capture3.PNG" alt="project-screenshot" width="800" height="400/">
 <h5>Test 5</h5>
-<img align="center" src="pngs\Capture4.png" alt="project-screenshot" width="800" height="400/">
+<img align="center" src="pngs\Capture4.PNG" alt="project-screenshot" width="800" height="400/">
   
   
 <h2>💻 Built with</h2>
