@@ -5,9 +5,9 @@
 
 <p align="center"><img src="https://img.shields.io/badge/download-you_like-blue" alt="shields"><img src="https://img.shields.io/badge/contributors-3-red" alt="shields"></p>
 
-<!-- <div align="center">
-  <img align="center" src="images\logo.png" alt="project-screenshot" width="400" height="400/">
-</div> -->
+<div align="center">
+  <img align="center" src="pngs\logo.png" alt="project-screenshot" width="788" height="800/">
+</div>
 
 
 <h2>🚀 Demo</h2>
@@ -18,13 +18,13 @@
 <h2>Project Screenshots:</h2>
 
 <h5>Test 1</h5>
-<img align="center" src="pngs\Capture.PNG" alt="project-screenshot" width="800" height="400/">
+<img align="center" src="pngs\Capture.PNG" alt="project-screenshot" width="790" height="461/">
 <h5>Test 2</h5>
-<img align="center" src="pngs\Capture1.PNG" alt="project-screenshot" width="800" height="400/">
+<img align="center" src="pngs\Capture1.PNG" alt="project-screenshot" width="793" height="460/">
 <h5>Test 3</h5>
-<img align="center" src="pngs\Capture2.PNG" alt="project-screenshot" width="800" height="400/">
+<img align="center" src="pngs\Capture2.PNG" alt="project-screenshot" width="960" height="459/">
 <h5>Test 4</h5>
-<img align="center" src="pngs\Capture3.PNG" alt="project-screenshot" width="800" height="400/">
+<img align="center" src="pngs\Capture3.PNG" alt="project-screenshot" width="633" height="334/">
 <h5>Test 5</h5>
 <img align="center" src="pngs\Capture4.PNG" alt="project-screenshot" width="800" height="400/">
   
