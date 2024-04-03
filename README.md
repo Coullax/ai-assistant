@@ -17,12 +17,15 @@
 <h2>Project Screenshots:</h2>
 
 <h5>Test 1</h5>
-<img align="center" src="images\screenshot1.png" alt="project-screenshot" width="800" height="400/">
-<h5>Test 1</h5>
-<img align="center" src="images\screenshot2.png" alt="project-screenshot" width="800" height="400/">
-<img align="center" src="images\screenshot3.png" alt="project-screenshot" width="800" height="400/">
-<img align="center" src="images\screenshot4.png" alt="project-screenshot" width="800" height="400/">
-<img align="center" src="images\screenshot5.png" alt="project-screenshot" width="800" height="400/">
+<img align="center" src="pngs\Capture.png" alt="project-screenshot" width="800" height="400/">
+<h5>Test 2</h5>
+<img align="center" src="pngs\Capture1.png" alt="project-screenshot" width="800" height="400/">
+<h5>Test 3</h5>
+<img align="center" src="pngs\Capture2.png" alt="project-screenshot" width="800" height="400/">
+<h5>Test 4</h5>
+<img align="center" src="pngs\Capture3.png" alt="project-screenshot" width="800" height="400/">
+<h5>Test 5</h5>
+<img align="center" src="pngs\Capture4.png" alt="project-screenshot" width="800" height="400/">
   
   
 <h2>💻 Built with</h2>
