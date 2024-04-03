@@ -12,7 +12,7 @@
 
 <h2>🚀 Demo</h2>
 
-[Contact Email](mailto:support@coullax.com)
+[Contact Email - support@coullax.com](mailto:support@coullax.com)
 
 <h2>Project Screenshots:</h2>
 
