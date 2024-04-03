@@ -16,8 +16,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<video src='video/demo.mp4' width=180/>
+<h5>Test 1</h5>
 <img align="center" src="images\screenshot1.png" alt="project-screenshot" width="800" height="400/">
+<h5>Test 1</h5>
 <img align="center" src="images\screenshot2.png" alt="project-screenshot" width="800" height="400/">
 <img align="center" src="images\screenshot3.png" alt="project-screenshot" width="800" height="400/">
 <img align="center" src="images\screenshot4.png" alt="project-screenshot" width="800" height="400/">
