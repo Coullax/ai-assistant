@@ -28,9 +28,13 @@
 <h5>Test 5</h5>
 <img align="center" src="pngs\Capture4.PNG" alt="project-screenshot" width="800" height="400/">
 
-<h5>Test 5</h5>
+<h5>Test 6</h5>
 
 [Video Demo.webm](https://github.com/Coullax/ai-assistant/assets/66479482/872bff75-bf69-4dad-a4ee-8d53d0522e79)
+
+<h5>Test 7</h5>
+
+[video demo2.webm](https://github.com/Coullax/ai-assistant/assets/66479482/53ffa05f-9c19-4bbe-800d-556af4ddce02)
 
   
 <h2>💻 Built with</h2>
