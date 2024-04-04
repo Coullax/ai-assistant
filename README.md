@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Ai Assistant (Elsa Personal Assistant)</h1>
 
-<p align="center" id="description">AI Assistant (Elsa Personal Assistant) that do anything for you need</p>
+<p align="center" id="description">An Artificial Intelligence Assistant (Elsa Personal Assistant) capable of performing any task you require.</p>
 
 
 <p align="center"><img src="https://img.shields.io/badge/download-you_like-blue" alt="shields"><img src="https://img.shields.io/badge/contributors-3-red" alt="shields"></p>
