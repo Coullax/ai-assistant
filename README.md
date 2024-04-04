@@ -47,3 +47,4 @@ Technologies used in the project:
 *   3D Model (Blender)
 *   MySql
 *   Sqlite
+*   Microsoft Speech recognition
